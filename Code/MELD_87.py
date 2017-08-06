@@ -1,3 +1,8 @@
+
+"""
+Modified by Wei Shao June 10 2017
+"""
+
 # -*- coding: utf-8 -*-
 """
 Created on Mon Oct 19 15:21:45 2015
